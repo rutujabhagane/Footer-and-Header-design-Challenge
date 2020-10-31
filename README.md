@@ -109,4 +109,15 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request.
 
 I will be merging all your changes into the master branch. You will get a notification email once the changes have been merged.
-
+Documentation is an integral part of any project .
+Create a prper documentation with following aspects
+project
+purpose
+objective 
+problems 
+flowchart 
+diagram 
+results
+conclusions 
+future scope
+Also add a small ppt regarding your project
